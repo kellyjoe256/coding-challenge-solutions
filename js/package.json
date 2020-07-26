@@ -1,0 +1,19 @@
+{
+    "name": "coding-challenge-solutions",
+    "version": "1.0.0",
+    "description": "My coding challenge solutions",
+    "main": "index.js",
+    "directories": {
+        "test": "tests"
+    },
+    "scripts": {
+        "test": "mocha **/*.test.js"
+    },
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/mocha": "^8.0.0",
+        "chai": "^4.2.0",
+        "mocha": "^8.0.1"
+    }
+}
